@@ -12,13 +12,13 @@ body {
 h2 {
     color: aquamarine;
     font-family: "Roboto", sans-serif;
-    font-weight: 300;
+    font-weight: 500;
     font-style: italic;
 }
 
 h1 {
     font-family: "Roboto", sans-serif;
-    font-weight: 500;
+    font-weight: 800;
     font-style: italic;
     color: black;
 }
