@@ -35,14 +35,9 @@ h4 {
     background: url('../img/contacto.jpg');  
     padding: 200px; 
     padding-top: 200px;
+    width: 100%;
 
 }
-
-/*.clearfix::after {
-    content: "";
-    clear: both;
-    display: table;
-}*/
 
 img {
     float: right;
