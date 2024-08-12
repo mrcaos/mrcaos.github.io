@@ -38,3 +38,13 @@ section {
 
 }
 
+/*.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}*/
+
+img {
+    float: right;
+    width: 50%;
+}
