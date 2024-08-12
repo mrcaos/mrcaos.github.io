@@ -30,7 +30,7 @@ h4 {
     color: whitesmoke;
 }
 
-section {
+.contacto {
     margin-top: 1%;
     background: url('../img/contacto.jpg');  
     padding: 200px; 
